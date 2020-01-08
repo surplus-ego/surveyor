@@ -5,6 +5,12 @@ X·plor·er
 /ikˈsplôrər/
 noun
 a person who explores an unfamiliar area; an adventurer.
+'''
+http://www.scifiideas.com/technobabble-generator/
+https://randomwordgenerator.com/phrase.php
+http://shinytoylabs.com/jargon/
+https://randomwordgenerator.com/
+'''
 
 * To Do
   * ::You need to reset the aft Fergnatz glob cooling tank.
