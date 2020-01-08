@@ -1,6 +1,9 @@
 # surveyor
 
 202001081104 Break The Ice
+Day 1
+[] It's been an hour since the crash. It appears that I'm stuck on this planet until the warp field stabilization template is recorrected. 
+[] The indiginous life is hostile. They want selfies.
 
 #Define
 X·plor·er
