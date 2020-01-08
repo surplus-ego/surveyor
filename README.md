@@ -34,3 +34,6 @@ Fortune! Thanks to the *Delectamenti* I have enough food and water for the durat
 ```
 Would you rather have a permanently clogged nose or a piece of green food always stuck in your teeth?
 ```
+
+# day 2
+I bathe in the blood of my enemies, drinking the sweet nectar of their lifeblood. They attacked the ship today. What were they thinking? Instantly they were fatally dehydrated by the reverse-evaporator, their fluids added to my liqui-tanks.  Their flesh makes great jerky!  It'll knock your socks off!
